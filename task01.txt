@@ -1,2 +1,6 @@
 Zadanie 1, odpowiedź
 
+Dwie zasady JSX:
+
+1. Muszą mieć poprane tagi -  np. można nie wpisać cudzysłowu dla wartości w HTML, w JSX musi się ona znajdować.
+2. Muszą być poprawnie zamknięte. Można zamknąć znakiem /.
